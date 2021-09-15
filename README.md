@@ -3,7 +3,7 @@
 
 Submitted by: **Maverick Abreu**
 
-Time spent: **3** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Flix Part 2
 
