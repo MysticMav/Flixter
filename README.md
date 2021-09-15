@@ -25,13 +25,13 @@ Time spent: **3** hours spent in total
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-
-<img src="movies2" width=250><br>
+Here's a walkthrough of implemented user stories:  
+<img src="Movies2.gif" width=250><br>
 
 ### Notes
 
-Describe any challenges encountered while building the app.
-
+I made the application responsive in both landscape and portrait mode. I also removed the ActionBar to give the viewers a larger screen.  
+Some issues I faced while making this application was that I attempted to complete the stretch stories by following the guides, but with no luck, was unable to implement them. For instances, the shared element transition caused my movie images to disapear, and was unable to even implement intent because I wasn't sure if I was placing it in the corect source file to begin with.
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
