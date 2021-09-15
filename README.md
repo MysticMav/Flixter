@@ -11,7 +11,7 @@ Time spent: **3** hours spent in total
 
 #### REQUIRED (10pts)
 
-:heavy_check_mark: (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+:heavy_check_mark: (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.  
 :heavy_check_mark: (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 #### BONUS
@@ -26,7 +26,7 @@ Time spent: **3** hours spent in total
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="movies2" width=250><br>
 
 ### Notes
 
